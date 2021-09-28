@@ -1,3 +1,6 @@
+# YAY
+
+
 # Delta Sharing: An Open Protocol for Secure Data Sharing
 
 [![Build and Test](https://github.com/delta-io/delta-sharing/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/delta-io/delta-sharing/actions/workflows/build-and-test.yml)
